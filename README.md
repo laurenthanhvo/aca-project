@@ -1,7 +1,7 @@
-# Lauren's Slack Bot
+# PosiBot
 A productivity and motivational Slack bot to enhance your workspace!
 
-**Lauren's Slack Bot** is a versatile and motivating addition to your Slack workspace, designed to streamline your tasks and boost your team's morale.
+**PosiBot** is a friendly and supportive companion designed to infuse positivity into your Slack workspace. With a range of uplifting features, PosiBot aims to create a more cheerful and motivating environment for you and your team. PosiBot operates by utilizing Slack's communication platform. It listens for mentions and commands from users in the workspace. You can interact with PosiBot using the provided commands to receive uplifting messages, log achievements, and access previously logged accomplishments.
 
 ## Features
 - **Dose of Happiness**: Receive a random uplifting message to brighten your day.
